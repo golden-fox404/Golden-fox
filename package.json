@@ -1,11 +1,11 @@
 {
-  "name": "DANUWA-MD",
+  "name": "Golden-fox-MD",
   "version": "1.0.0",
   "description": "A Powerfull Whatsapp Bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DANUWA-MD",
-    "stop": "pm2 stop DANUWA-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name Golden-fox-MD",
+    "stop": "pm2 stop Golden-fox-MD",
     "restart": "pm2 restart DANUWA-MD"
   },
   "dependencies": {
