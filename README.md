@@ -1,13 +1,15 @@
-<h1 align="center" style="font-weight:bold;">
+
+
+<h1 align="center"  style=" color:#10B981;font-weight:bold;">
 ⚡ G O L D E N － F O X 🦊 ⚡
 </h1>
 
 <p align="center">
-  <img src="https://github.com/golden-fox404/Golden-fox/blob/main/Images/Golden-fox.jpg?raw=true" alt="DANUWA-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/golden-fox404/Golden-fox/blob/main/Images/Golden-fox.jpg?raw=true" alt="GOALDEN-FOX Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DANUWA-MD+WhatsApp+Bot;I'm+Danuka+Disanayaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+GOLDEN-FOX+WhatsApp+Bot;I'm+VISHATH+KAUSHIKA;I+AM+OFFICIAL+BOT+DEVELOPER ;AND;OWNER+IN+TEAM+XXX" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,13 +35,13 @@
 
 ---
 
-## 📍 What is DANUWA-MD?
+## 📍 What is GOLDEN-FOX?
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Multi-device+WhatsApp+bot;Modular+plugin+architecture;Media+and+group+management+tools" alt="Typing SVG" />
 </p>
 
-**DANUWA-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
+**GOLDEN-FOX** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
 
 ---
 
@@ -51,10 +53,10 @@
 
 ### 🧾 Requirements
 
-- Session ID  
-- Gemini API (Optional)
-- OPENAI(gpt-4to-mini) API (Optional)
-- Skymantion API (Optional)
+- Session ID  📑
+- Gemini API (Optional)📊
+- OPENAI(gpt-4to-mini) API (Optional)📈
+- Skymantion API (Optional)📉
 
 #### Essential links
 1. [skymantion API key](https://api.skymansion.site/movies-dl/)
@@ -66,7 +68,7 @@
 ### 🚀 Installation
 
 1. **Fork the Repository**  
-   [DANUWA-MD GitHub Repo](https://github.com/DANUWA-MD/DANUWA-BOT)
+   [GOLDEN-FOXGitHub Repo](https://github.com/DANUWA-MD/DANUWA-BOT)
 
 2. **Generate Session ID**  
     [Generate Session ID - 1](https://danuwa-official.vercel.app/)</br></br>
@@ -112,7 +114,7 @@
 
 ---
 
-## 🧑‍💻 How to Deploy DANUWA-MD on GitHub Codespaces
+## 🧑‍💻 How to Deploy GOLDEN-FOXon GitHub Codespaces
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -135,7 +137,7 @@
    ```
 
 
-## ⚡ How to Deploy DANUWA-MD on Replit
+## ⚡ How to Deploy GOLDEN-FOXon Replit
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -153,7 +155,7 @@ Make sure your repository includes all required files (`index.js`, `plugins`, `a
 
 ---
 
-## 🚀 How to Deploy DANUWA-MD on GitHub (via Actions)
+## 🚀 How to Deploy GOLDEN-FOXon GitHub (via Actions)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+workflow+YAML;Push+and+run+automatically" alt="Typing SVG" />
@@ -212,13 +214,13 @@ jobs:
 
 ---
 
-## 🚄 How to Deploy DANUWA-MD on Railway
+## 🚄 How to Deploy GOLDEN-FOXon Railway
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+Railway;Easy+one+tap+deployment" alt="Typing SVG" />
 </p>
 
-You can easily deploy your own instance of DANUWA-MD on Railway with just one click.
+You can easily deploy your own instance of GOLDEN-FOXon Railway with just one click.
 
 1. Click the "Deploy on Railway" button.
 
@@ -238,7 +240,7 @@ Click "Deploy" — Railway will handle the rest!
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Fast%2C+lightweight%2C+and+modular;Smart+commands+and+media+support;Built+with+Baileys" alt="Typing SVG" />
 </p>
 
-DANUWA-MD is designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
+GOLDEN-FOXis designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
 
 | Category          | Description |
 |------------------|-------------|
@@ -263,7 +265,7 @@ DANUWA-MD is designed with scalability, flexibility, and functionality in mind. 
 
 ## 🛠️ Coming Soon
 
-We’re constantly improving DANUWA-MD to bring more power to your fingertips. Here’s what’s on the roadmap:
+We’re constantly improving GOLDEN-FOX to bring more power to your fingertips. Here’s what’s on the roadmap:
 
 | Feature               | Description |
 |------------------------|-------------|
@@ -288,22 +290,26 @@ We’re constantly improving DANUWA-MD to bring more power to your fingertips. H
 </p>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images%20/Danuka%20Dissanayake.jpg?raw=true" width="540" style="border-radius: 50px;" alt="VISHATH KAUSHIKA LAKSHA "/>
+  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/Danuwa%20-%20MD.png?raw=truehttps://github.com/golden-fox404/Golden-fox/blob/main/Images/Golden-fox.jpg?raw=true" width="540" style="border-radius: 50px;" alt="VISHATH KAUSHIKA LAKSHA "/>
 </p>
 
 <h1 align="center" style="color:#10B981; font-weight:bold;">
-  VISHATH KAUSHIKA LAKSHA 
+  VISHATH KAUSHIKA LAKSHAN
 </h1>
 
 <p align="center">
-VISHATH KAUSHIKA LAKSHA  is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F; YOU+CAN+CONTACT+ME+IN+THIS+NUMBER;+94725613084+OR; CLICK+WHATSAPP+ICON" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DANUWA_MD">GitHub</a> • 
-  <a href="https://www.youtube.com/@quizontal">YouTube</a> •
-  <a href="https://Wa.me/+94776121326">WhatsApp</a> •
-  <a href="https://www.facebook.com/share/1AM4qa8S4e/">Facebook</a>
+VISHATH KAUSHIKA LAKSHAN  is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
+</p>
+
+<p align="center">
+  <a href="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/Danuwa%20-%20MD.png?raw=truehttps://github.com/golden-fox404">GitHub</a> • 
+  <a href="https://www.youtube.com/@VISHATHKAUSHIKA">YouTube</a> •
+  <a href="https://Wa.me/+94725613084">WhatsApp</a> •
+  <a href="https://www.GOOGLE.COM/">Facebook</a>
 
 
 </p>
