@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `Golden-fox-MD connected ✅\n\nPREFIX: ${prefix}`;
       await danuwa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `https://github.com/golden-fox404/Golden-fox/blob/main/Images/Golden-fox.jpg?raw=true` },
         caption: up
       });
 
