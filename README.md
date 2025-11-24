@@ -298,7 +298,8 @@ We’re constantly improving GOLDEN-FOX to bring more power to your fingertips. 
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F; YOU+CAN+CONTACT+ME+IN+THIS+NUMBER;+94725613084+OR; CLICK+WHATSAPP+ICON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you;Welcome+to+GOLDEN-FOX+WhatsApp+Bot;Im+VISHATH+KAUSHIKA;I+AM+OFFICIAL+BOT+DEVELOPER ;AND;OWNER+IN+TEAM+XXX" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Multi-device+WhatsApp+bot;Modular+plugin+architecture;Media+and+group+management+tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
