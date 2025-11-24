@@ -73,7 +73,7 @@
 2. **Generate Session ID**  
     [Generate Session ID - 1](https://danuwa-official.vercel.app/)</br></br>
              OR </br></br>
-   [Generate Session ID - 2](https://replit.com/@quizontalbot/DANUWA-MD-SESSION-ID?v=1#index.js)
+   [Generate Session ID - 2](https://replit.com/@vishathkaushik1/Web-pair?v=1#index.js)
 
 4. **Configure Session and Owner Info**  
  - Edit `config.js` with your session ID and owner number (international format)
@@ -326,4 +326,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 If you like this project, don’t forget to ⭐️ the repo!
 
-> ⚙️ Made with ❤️ by **VISHATH KAUSHIKA LAKSHA **🔥
+> ⚙️ Made with ❤️ by **VISHATH KAUSHIKA LAKSHAN **🔥
