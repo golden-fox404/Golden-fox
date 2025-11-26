@@ -9,8 +9,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you;Welcome+to+GOLDEN-FOX+WhatsApp+Bot;Im+VISHATH+KAUSHIKA;I+AM+OFFICIAL+BOT+DEVELOPER ;AND;OWNER+IN+TEAM+XXX" alt="Typing SVG" />
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Multi-device+WhatsApp+bot;Modular+plugin+architecture;Media+and+group+management+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=skyblue&center=true&vCenter=true&width=600&lines=Hello+How+are+you;Welcome+to+GOLDEN-FOX+WhatsApp+Bot;Im+VISHATH+KAUSHIKA;I+AM+OFFICIAL+BOT+DEVELOPER ;AND;OWNER+IN+TEAM+XXX" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -74,7 +73,7 @@
 2. **Generate Session ID**  
     [Generate Session ID - 1](https://danuwa-official.vercel.app/)</br></br>
              OR </br></br>
-   [Generate Session ID - 2](https://replit.com/@quizontalbot/DANUWA-MD-SESSION-ID?v=1#index.js)
+   [Generate Session ID - 2](https://replit.com/@vishathkaushik1/Web-pair?v=1#index.js)
 
 4. **Configure Session and Owner Info**  
  - Edit `config.js` with your session ID and owner number (international format)
